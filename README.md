@@ -1,5 +1,5 @@
-- 👋 Hello there!, I’m @EVDEDEEV
-- 👀 I’m interested in Android Apps Developement, Cycling and mountain skiing =)
+- 👋 Hello there!, I’m Erkesh D
+- 👀 I’m interested in Computer Technologies, Mobile, Android Apps Developement, Cycling and mountain skiing =)
 - 🌱 I’m currently learning Java/Kotlin, Android Studio.
 - 📫 How to reach me: dedeeverkesh@gmail.com, Telegram: t.me/vectorEDEDE, 
 
