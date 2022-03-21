@@ -1,6 +1,6 @@
 - 👋 Hello there!, I’m Erkesh D
 - 👀 I’m interested in Computer Technologies, Mobile, Android Apps Developement, Cycling and mountain skiing =)
-- 🌱 I’m currently learning Java/Kotlin, Android Studio.
+- 🌱 I’m currently learn Java/Kotlin, programming Android mobile applications.
 - 📫 How to reach me: dedeeverkesh@gmail.com, Telegram: t.me/vectorEDEDE, 
 
 <!---
