@@ -1,6 +1,6 @@
 - 👋 Hello there!, I’m Erkesh, 26 y.o.
-- 👀 I’m interested in Computer Technologies, Mobile, Android Apps Developement, Cycling and mountain skiing =)
-- 🌱 I’m currently programming Android mobile applications.
+- 👀 I’m interested in Computer Technologies, Mobile, Android Apps Developement, Cycling 🚴‍♂️ and mountain skiing ⛷️ =)
+- 📱 I’m currently programming Android mobile applications.
 - 📫 How to reach me: dedeeverkesh@gmail.com, Telegram: t.me/ededeev
 
 <!---
